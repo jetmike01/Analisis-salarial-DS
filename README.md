@@ -35,12 +35,17 @@ El análisis incluye las siguientes herramientas y tecnologías:
 
 ## 🏆 Tecnología mejor pagada
 
-Basado en el análisis de salarios promedios según la mención de habilidades en las ofertas:
+Durante el análisis se compararon los salarios promedios para diferentes tecnologías comunes en Ciencia de Datos. Estos fueron los resultados:
 
-```
-💰 Tecnología con mayor salario: [Nombre de la tecnología]
-📈 Salario promedio: $XXXX.XX
-```
+Salario promedio con PYTHON: $112.65
+Salario promedio con R: $70.75
+Salario promedio con SPARK: $113.35
+Salario promedio con AWS: $112.56
+Salario promedio con EXCEL: $98.50
+
+🏅 Ganadora:
+
+SPARK con un salario promedio de $113.35 💰
 
 ## 📈 Visualizaciones
 
