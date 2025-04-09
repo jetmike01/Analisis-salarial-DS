@@ -40,6 +40,10 @@ Salario promedio con EXCEL: $98.50
 ### 🏅 Ganadora:
 **SPARK** con un salario promedio de **$113.35** 💰
 
+### 📊 Salario promedio por tecnología
+
+![Salario por tecnología](notebooks/visualizaciones/salario_por_tecnologia.png)
+
 ---
 
 ## 🚀 Tecnologías usadas
