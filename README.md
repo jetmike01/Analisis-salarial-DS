@@ -58,7 +58,8 @@ Salario promedio con EXCEL: $98.50
 [Glassdoor Data Science Jobs Dataset](https://www.kaggle.com/datasets/fahadrehman07/data-science-jobs-and-salary-glassdoor)
 
 ## 📬 Contacto
-Si quieres ver más de mi trabajo, visita mi [perfil de GitHub]((https://github.com/jetmike01)).
+Si quieres ver más de mi trabajo, visita mi [perfil de GitHub](https://github.com/jetmike01).
+
 
 
 
