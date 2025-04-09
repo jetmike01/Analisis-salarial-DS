@@ -22,7 +22,7 @@ Analisis-salarial-DS/
 │   └── descripciones_empleo.txt # Archivo con las primeras 10 descripciones de empleos
 │   └── visualizaciones/
 │       └── tecnologias_frecuencia.png  # Gráfico de frecuencia de tecnologías
-│       └── salario_por_tecnologia.png   # Gráfico de salario por tecnología
+│       └── salario_por_tecnologia.png  # Gráfico de salario por tecnología
 │
 ├── README.md                   # Este archivo
 ```
