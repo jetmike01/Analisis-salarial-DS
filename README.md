@@ -46,6 +46,35 @@ Salario promedio con EXCEL: $98.50
 
 ---
 
+📊 Frecuencia de tecnologías en las descripciones de empleo
+Este análisis explora la presencia de ciertas tecnologías clave dentro de las descripciones de empleo. Se seleccionaron las siguientes tecnologías:
+
+Python
+
+SQL
+
+Excel
+
+AWS
+
+Machine Learning
+
+Artificial Intelligence
+
+Data Analysis
+
+R
+
+Spark
+
+Para cada una de ellas, se contó cuántas veces aparecían en las descripciones de empleo recopiladas. Esto permite identificar qué habilidades están siendo más demandadas por las empresas.
+
+🔍 Resultados de frecuencia
+A continuación se muestra un gráfico de barras con la frecuencia de aparición de cada tecnología:
+
+![Salario por tecnología](notebooks/visualizaciones/tecnologias_frecuencia.png)
+
+
 ## 🚀 Tecnologías usadas
 - Python
 - Pandas
