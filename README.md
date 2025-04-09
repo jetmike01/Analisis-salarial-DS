@@ -19,9 +19,10 @@ Analisis-salarial-DS/
 │
 ├── notebooks/
 │   ├── eda-DS.ipynb             # Análisis exploratorio y visualizaciones
-│   └── descripciones_empleo.txt # Archivo con descripciones de empleos
+│   └── descripciones_empleo.txt # Archivo con las primeras 10 descripciones de empleos
 │   └── visualizaciones/
-│       └── tecnologias_frecuencia.png  # Gráfico generado
+│       └── tecnologias_frecuencia.png  # Gráfico de frecuencia de tecnologías
+│       └── salario_por_tecnologia.png   # Gráfico de salario por tecnología
 │
 ├── README.md                   # Este archivo
 ```
@@ -75,6 +76,7 @@ A continuación se muestra un gráfico de barras con la frecuencia de aparición
 
 ![Salario por tecnología](notebooks/visualizaciones/tecnologias_frecuencia.png)
 
+---
 
 ## 🚀 Tecnologías usadas
 - Python
